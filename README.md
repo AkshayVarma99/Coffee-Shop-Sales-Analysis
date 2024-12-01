@@ -1,5 +1,8 @@
 # Coffee Shop Sales Analysis - Maven Roasters
 
+![Coffee Shop Image](Images/Coffee%20Shop%20Image.png)
+*Image 1: Coffee Shop Image.*
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Structure](#data-structure)
@@ -7,7 +10,6 @@
 - [Sales Dashboard Overview](#sales-dashboard-overview)
 - [Interactive Dashboard](#interactive-dashboard)
 - [Recommendations](#recommendations)
-- [Resources](#resources)
 
 ## Project Overview
 **Maven Roasters** is a fictitious coffee shop chain with three locations across New York City. This project analyzes the sales data to derive insights into the shop's performance and customer behavior. Using key metrics such as total revenue, order volume, average order value (AOV), and product performance, the analysis identifies trends and patterns that can help optimize operations, improve customer satisfaction, and boost sales.
@@ -43,7 +45,10 @@ The interactive sales dashboard provides the following key insights:
 - **Peak Hour & Day**: Visualizes peak sales hours (10 AM) and provides insights on sales distribution throughout the day.
 
 ## Interactive Dashboard
-An interactive dashboard is available for a more detailed analysis. You can explore the data visually, view insights, and make data-driven decisions based on the findings. The dashboard was developed using **Streamlit**, and you can view it [here](link_to_dashboard).
+An interactive dashboard is available for a more detailed analysis. You can explore the data visually, view insights, and make data-driven decisions based on the findings.
+
+![Dashboard Image](Images/Dashboard%20Image.png)
+*Image 2: Dashboard Image.*
 
 ## Recommendations
 - Implement promotional offers for **high-value products** like Coffee Beans during colder months.
@@ -52,6 +57,3 @@ An interactive dashboard is available for a more detailed analysis. You can expl
 - Experiment with new **product categories** to keep the menu fresh and engage repeat customers.
 - Conduct regular **customer feedback surveys** to continuously improve service quality and product offerings.
 
-## Resources
-- Pre-processing steps for data cleaning and transformation can be found [here](link_to_resources).
-- View the **interactive Streamlit dashboard** [here](link_to_dashboard).
